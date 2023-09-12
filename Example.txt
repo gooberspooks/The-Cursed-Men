@@ -1,0 +1,3 @@
+Adding some example text in the text file.
+
+Here is a link for more information on how to use the repo: https://youtu.be/eBGIQ7ZuuiU
