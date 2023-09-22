@@ -15,16 +15,16 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
 		},
 		{
-			"Name": "SteamVR",
+			"Name": "OculusVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win32",
 				"Win64",
-				"Linux"
+				"Android"
 			]
 		},
 		{
-			"Name": "OpenXRHandTracking",
+			"Name": "OpenXREyeTracker",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win32",
@@ -35,7 +35,7 @@
 			]
 		},
 		{
-			"Name": "OpenXREyeTracker",
+			"Name": "OpenXRHandTracking",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win32",
@@ -57,12 +57,12 @@
 			]
 		},
 		{
-			"Name": "OculusVR",
+			"Name": "SteamVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win32",
 				"Win64",
-				"Android"
+				"Linux"
 			]
 		}
 	]
